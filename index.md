@@ -12,8 +12,15 @@ keywords: organizace,transparence,politika
 
   {% include sections/about.html %}
   {% include sections/about-video.html %}
+
+  {% include sections/galerie.html %}
+
   {% include sections/team.html %}
 
+  {% include sections/proArchitekty.html %}
+
   {% include sections/faq.html %}
+
+  {% include sections/contact.html %}
 
 </main><!-- End #main -->
