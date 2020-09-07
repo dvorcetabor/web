@@ -17,7 +17,7 @@ keywords: organizace,transparence,politika
 
   {% include sections/team.html %}
 
-  {% include sections/obbornici.html %}
+  {% include sections/odbornici.html %}
 
   {% include sections/proArchitekty.html %}
 
