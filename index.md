@@ -11,7 +11,7 @@ keywords: organizace,transparence,politika
 <main id="main">
 
   {% include sections/about.html %}
-  {% include sections/call2action.html %}
+  
   {% include sections/about-video.html %}
 
   {% include sections/galerie.html %}
