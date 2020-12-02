@@ -10,8 +10,15 @@ keywords: organizace,transparence,politika
 
 <main id="main">
 
+<section id="cta" class="cta">
+  <div class="container" data-aos="zoom-in">
+    {% capture my_include %}{% include sections/call2action.md %}{% endcapture %}
+    {{ my_include | markdownify }}
+  </div>
+</section>
+
   {% include sections/about.html %}
-  
+
   {% include sections/about-video.html %}
 
   {% include sections/galerie.html %}
