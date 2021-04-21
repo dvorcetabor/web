@@ -24,28 +24,24 @@ keywords: organizace,transparence,politika
   <section id="1cena" class="team section-bg">
     <div class="container" data-aos="fade-up">
       <div class="section-title">
-        <h2>DVORCE - Nový domov pro činorodé Tábořany</h2>
+        <h2>1. cena: DVORCE - Nový domov pro činorodé Tábořany</h2>
       </div>
 
       <div class="row fw my-2">
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_01.jpg" class="zoomphoto" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.1.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_02.jpg" 
-          class="zoomphoto" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.2.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_03.jpg" 
-          class="zoomphoto" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.3.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_04.jpg" 
-          class="zoomphoto" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.4.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_05.jpg" 
-          class="zoomphoto" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.5.jpg" class="zoomphoto" />
         </div>
       </div>
 
@@ -60,24 +56,24 @@ keywords: organizace,transparence,politika
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
-        <h2>Nové Dvorce: lokalita mnoha tváří</h2>
+        <h2>2. cena: Nové Dvorce: lokalita mnoha tváří</h2>
       </div>
 
       <div class="row fw my-2">
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/unit/UNIT_graficka%20cast1024_1.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.1.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/unit/UNIT_graficka%20cast1024_2.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.2.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/unit/UNIT_graficka%20cast1024_3.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.3.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/unit/UNIT_graficka%20cast1024_4.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.4.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/unit/UNIT_graficka%20cast1024_5.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.5.jpg" class="zoomphoto" />
         </div>
       </div>
 
@@ -92,24 +88,24 @@ keywords: organizace,transparence,politika
     <div class="container" data-aos="fade-up">
 
       <div class="section-title">
-        <h2>třiarchitekti - Michal Fišer a David Mareš</h2>
+        <h2>3. cena: Třiarchitekti - Michal Fišer a David Mareš</h2>
       </div>
 
       <div class="row fw my-2">
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/3a/0001.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.1.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/3a/0002.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.2.jpg" class="zoomphoto"/>
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/3a/0003.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.3.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/3a/0004.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.4.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/3a/0005.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.5.jpg" class="zoomphoto" />
         </div>
       </div>
 

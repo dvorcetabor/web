@@ -99,11 +99,13 @@ $(document).ready(function() {
   $('.zoomphoto').click(function(event) {
     event.preventDefault();
     var src = event.currentTarget.attributes['src'].nodeValue;
+    src = src.substr(0, src.length-8) + src.substr(src.length-5)
     var img = $('<img src="' + src + '" />')
     img.css('display', 'block')
     img.addClass('hovno')
     img.appendTo('body').modal();
-    $('.hovno').zoom({url: 'http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_01.jpg'});
+    $('.jquery-modal').css('z-index', 1000)
+    $('.hovno').zoom();
   })
 });
 </script>
