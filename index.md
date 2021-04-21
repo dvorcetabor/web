@@ -27,7 +27,7 @@ keywords: organizace,transparence,politika
         <h2>1. cena: DVORCE - Nový domov pro činorodé Tábořany</h2>
       </div>
 
-      <div class="row fw my-2">
+      <div class="row fw my-4">
         <div class="col-lg-2 offset-lg-1 col-md-4">
           <a href="http://data.vxk.cz/JPEGYDvorce/norma/1.jpg" target="_blank">
             <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.1.jpg"  />
@@ -69,7 +69,7 @@ keywords: organizace,transparence,politika
         <h2>2. cena: Nové Dvorce: lokalita mnoha tváří</h2>
       </div>
 
-      <div class="row fw my-2">
+      <div class="row fw my-4">
         <div class="col-lg-2 offset-lg-1 col-md-4">
           <a href="http://data.vxk.cz/JPEGYDvorce/unit/1.jpg" target="_blank">
             <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.1.jpg" />
@@ -111,7 +111,7 @@ keywords: organizace,transparence,politika
         <h2>3. cena: Třiarchitekti - Michal Fišer a David Mareš</h2>
       </div>
 
-      <div class="row fw my-2">
+      <div class="row fw my-4">
         <div class="col-lg-2 offset-lg-1 col-md-4">
           <a href="http://data.vxk.cz/JPEGYDvorce/3a/1.jpg" target="_blank">
             <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.1.jpg" />
