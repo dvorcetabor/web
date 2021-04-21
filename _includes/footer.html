@@ -88,6 +88,25 @@
 <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
 <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
 <script src="assets/vendor/aos/aos.js"></script>
+<script src="assets/js/jquery.zoom.min.js"></script>
+
+<!-- jQuery Modal -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.1/jquery.modal.min.css" />
+
+<script>
+$(document).ready(function() {
+  $('.zoomphoto').click(function(event) {
+    event.preventDefault();
+    var src = event.currentTarget.attributes['src'].nodeValue;
+    var img = $('<img src="' + src + '" />')
+    img.css('display', 'block')
+    img.addClass('hovno')
+    img.appendTo('body').modal();
+    $('.hovno').zoom({url: 'http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_01.jpg'});
+  })
+});
+</script>
 
 <!-- Template Main JS File -->
 <script src="assets/js/main.js"></script>

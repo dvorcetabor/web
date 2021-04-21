@@ -29,19 +29,23 @@ keywords: organizace,transparence,politika
 
       <div class="row fw my-2">
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_01.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_01.jpg" class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_02.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_02.jpg" 
+          class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_03.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_03.jpg" 
+          class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_04.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_04.jpg" 
+          class="zoomphoto" />
         </div>
         <div class="col-lg-2 col-md-4">
-          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_05.jpg" />
+          <img src="http://data.vxk.cz/JPEGYDvorce/norma/norma_tabor_panel_05.jpg" 
+          class="zoomphoto" />
         </div>
       </div>
 
