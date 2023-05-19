@@ -1,11 +1,12 @@
 
 ### Aktuálně: Zveme Vás na veřejné setkání a diskuzi ___ 7. června 2023
 
-V přípravě nové čtvrti Dvorce se město posunulo zase o krok dále. Návrh z architektonické soutěže rozpracoval tým pod taktovkou NormA architekti do podoby územní studie, ekonomický model rozvoje území vymysleli specialisté z kanceláře 4ct a koordinaci dalších kroků převzala Kancelář architekta města. Veřejné představení dalšího postupu a panelová diskuse, ve které bude prostor se zeptat na vše, co vás zajímá, se bude konat 7. června 2023 od 17 hodin v jídelně ZŠ Zborovská na Pražském sídlišti.
+V přípravě nové čtvrti Dvorce se město posunulo zase o krok dále. Návrh z architektonické soutěže rozpracoval tým pod taktovkou NormA architekti do podoby územní studie, která je nyní k nahlédnutí na <a href="https://www.taborcz.eu/vismo/dokumenty2.asp?id=80568&n=uzemni-studie-tabor-obytna-ctvrt-dvorce&p1=66237">webu města</a>. Ekonomický model rozvoje území vymysleli specialisté z kanceláře 4ct a koordinaci dalších kroků převzala Kancelář architekta města. Veřejné představení dalšího postupu a panelová diskuse, ve které bude prostor se zeptat na vše, co vás zajímá, se bude konat 7. června 2023 od 17 hodin v jídelně ZŠ Zborovská na Pražském sídlišti.
 
 Srdečně zveme! 
 
 Kancelář architekta města Tábor
+
 
 
 ### Příprava obytné čtvrti Dvorce ___ březen 2022
@@ -15,6 +16,7 @@ Plánování nové čtvrti Dvorce dostává přesnější obrysy a kromě urbani
 V rámci územní studie Dvorců nyní dokončujeme projednání s dotčenými orgány a odbory města a ladíme připomínky k danému řešení. Ekonomové z 4CT a Norma architekti pracují ve vzájemné kooperaci a prověřují, zda nastavená pravidla pro budoucí stavby jsou finančně udržitelná a realizovatelná. Vše vyústí v přesné pokyny pro dopracování studie a ta bude následně sloužit jako podklad pro rozhodování v území. 
 
 Město taktéž vstoupilo do jednání se zástupci armády, jejíž pozemek výstrojního skladu se nachází uprostřed nové čtvrti a ovlivňuje budoucí podobu ulice Kyjevská. Na společném jednání došlo k rámcové dohodě na řešení veřejného prostoru a budeme dále koordinovat konkrétní kroky vedoucí k potřebné pozemkové směně. Pokud vše schválí příslušné orgány, budeme moci rozšířit Kyjevskou ulici o potřebná parkovací místa, prodloužit alej stromů a vytvořit přívětivý prostor pro pěší i cyklisty. 
+
 
 
 ### Rýsuje se nová čtvrť ___ září 2021
