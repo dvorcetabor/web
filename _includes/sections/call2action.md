@@ -1,7 +1,10 @@
 
 ### Aktuálně ___ Zveme Vás na veřejné setkání a diskuzi ___ 7. června 2023
 
-V přípravě nové čtvrti Dvorce se město posunulo zase o krok dále. Návrh z architektonické soutěže rozpracoval tým pod taktovkou NormA architekti do podoby územní studie, ekonomický model rozvoje území vymysleli specialisté z kanceláře 4ct a koordinaci dalších kroků převzala Kancelář architekta města. Veřejné představení dalšího postupu a panelová diskuse, ve které bude prostor se zeptat na vše, co vás zajímá, se bude konat 7. 6. 2023 od 17 hodin v jídelně ZŠ Zborovská na Pražském sídlišti. Srdečně zveme! 
+V přípravě nové čtvrti Dvorce se město posunulo zase o krok dále. Návrh z architektonické soutěže rozpracoval tým pod taktovkou NormA architekti do podoby územní studie, ekonomický model rozvoje území vymysleli specialisté z kanceláře 4ct a koordinaci dalších kroků převzala Kancelář architekta města. Veřejné představení dalšího postupu a panelová diskuse, ve které bude prostor se zeptat na vše, co vás zajímá, se bude konat 7. 6. 2023 od 17 hodin v jídelně ZŠ Zborovská na Pražském sídlišti.
+
+Srdečně zveme! 
+
 Kancelář architekta města Tábor
 
 ### Příprava obytné čtvrti Dvorce ___ březen 2022
@@ -14,16 +17,3 @@ Město taktéž vstoupilo do jednání se zástupci armády, jejíž pozemek vý
 
 ### Rýsuje se nová čtvrť ___ září 2021
 V průběhu prázdnin začal vítězný tým urbanistické soutěže pracovat na podrobné územní studii. Vize architektů se tak nyní proměňují v jasně daná pravidla, která na dlouhá léta dopředu určí, jak se bude v místě stavět. Stanoví výškovou hladinu nové zástavby, načrtnou parcelaci a umístění domů na pozemcích. Na základě výpočtů získá přesnější obrysy i systém modrozelené infrastruktury, tedy pásy stromových výsadeb a plochy pro retenci dešťové vody. Budou podrobně řešeny ekonomické aspekty výstavby, její etapizace a zapojení soukromých developerů. Po roce od vyhlášení soutěže Vás tak srdečně zveme na prezentaci, kde se seznámíte s celým návrhem pro Dvorce a my si vyslechneme vaše připomínky a komentáře. Setkání se uskuteční ve středu 29.9.2021 od 17 hodin v sále Milenia. Tým ´Norma architekti´ vám představí aktuální rozpracovanou studii a společně u kulatých stolů budeme diskutovat nad konkrétními detaily. Těšíme se na setkání nad urbanistickými plány budoucí čtvrti.
-
-### Architektonická soutěž přinesla Táboru vítězný návrh pro novou čtvrť Dvorce ___ duben 2021
-
-	Po pěti měsících intenzivního soutěžního workshopu zná Tábor vítěze a spolu s ním urbanistický návrh, který posunul budoucnost nové čtvrti Dvorce o zásadní krok kupředu. O účast v soutěži se ucházelo 23 týmů, pět z nich vybrala porota do užšího výběru. Během třech jednání se vedly živé diskuze o zadání, konceptu a ideálních parametrech pro novou obytnou zástavbu. Závěrečné rozhodování poroty nebylo vůbec jednoduché. Přístupy jednotlivých týmů byly rozmanité a každý z nich měl ambice naplnit zadání a očekávání města a jeho obyvatel.
-	
-	Na prvním místě se umístil odvážný návrh týmu Norma architekti + Sporadical + Steiner & Malíková. Porota ocenila jasnou a silnou vizi parku jako ústředního motivu nové čtvrti v kombinaci s hustou zástavbou území. Ta je tvořena čtyřpodlažními viladomy, koncentrovanými městskými domy (townhouse), vyššími bytovkami a nájemním pavlačovým domem, který uzavírá park před zimním stadionem. Vstup do nové čtvrti je navržen náměstím na křižovatce ulic Kyjevská a Kapitána Jaroše. Jako nejlepší byl hodnocen krajinářský přístup spočívající v modrozeleném pásu plynule navazujícím na údolí Tismenického potoka. Současně je respektován význam a pozice památníku, který je obklopen zelení v těžišti parku. V dlouhodobé vizi nastiňuje obnovení stopy  původního potoka, novou vodní nádrž a přeměnu v krajinný park přírodního charakteru. Nová čtvrť přiláká až 2000 nových obyvatel a slovy autorů vytvoří nový domov pro činorodé Tábořany.
-	
-	Druhou cenu si odnáší tým UNIT architekti za vyvážený návrh s velkou různorodostí typologie bydlení – od řadových domů až po větší bytové celky. Kolem centrální společenské osy jsou soustředěny aktivity pro trávení volného času a soukromé vnitrobloky umožňují využití pro parkování nebo předzahrádky. Třiarchitekti (Michal Fišer a David Mareš) přišli se sebevědomou ambicí a porotu oslovili návrhem struktury veřejných prostranství. Konkrétní podobu jednotlivých bloků však definovali variantně a další vývoj návrhu ponechali pro budoucí fáze přípravy. S tímto konceptem jim přísluší třetí oceněné místo. Zbývající dva účastníci – ov architekti a ateliér A8000 si odnáší ze soutěže odměny za kvalitní dílčí podněty a řešení.
-	
-	Výstava návrhů se uskuteční od 4. do 29. května v Městské knihovně Tábor v Jiráskově ulici. Pokud to situace umožní, proběhne prezentace oceněných návrhů naživo s autorskými týmy a možností diskuze.
-
-
-
