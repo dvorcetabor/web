@@ -1,7 +1,7 @@
 
 ### Aktuálně: Zveme Vás na veřejné setkání a diskuzi ___ 7. června 2023
 
-V přípravě nové čtvrti Dvorce se město posunulo zase o krok dále. Návrh z architektonické soutěže rozpracoval tým pod taktovkou NormA architekti do podoby územní studie, ekonomický model rozvoje území vymysleli specialisté z kanceláře 4ct a koordinaci dalších kroků převzala Kancelář architekta města. Veřejné představení dalšího postupu a panelová diskuse, ve které bude prostor se zeptat na vše, co vás zajímá, se bude konat 7. 6. 2023 od 17 hodin v jídelně ZŠ Zborovská na Pražském sídlišti.
+V přípravě nové čtvrti Dvorce se město posunulo zase o krok dále. Návrh z architektonické soutěže rozpracoval tým pod taktovkou NormA architekti do podoby územní studie, ekonomický model rozvoje území vymysleli specialisté z kanceláře 4ct a koordinaci dalších kroků převzala Kancelář architekta města. Veřejné představení dalšího postupu a panelová diskuse, ve které bude prostor se zeptat na vše, co vás zajímá, se bude konat 7. června 2023 od 17 hodin v jídelně ZŠ Zborovská na Pražském sídlišti.
 
 Srdečně zveme! 
 
