@@ -5,7 +5,8 @@ Město Tábor zve odbornou veřejnost na prezentaci záměru výstavby nové čt
 Na akci se prosím registrujte <a href="bit.ly/43IO3TB">zde</a>
 
 
-### Územní studie Dvorců k nahlédnutí <a href="https://www.taborcz.eu/vismo/dokumenty2.asp?id=80568&n=uzemni-studie-tabor-obytna-ctvrt-dvorce&p1=66237">zde</a>
+### Územní studie - k nahlédnutí <a href="https://www.taborcz.eu/vismo/dokumenty2.asp?id=80568&n=uzemni-studie-tabor-obytna-ctvrt-dvorce&p1=66237">zde</a>
+
 
 ### Setkání s veřejností a diskuze ___ 7. června 2023
 
