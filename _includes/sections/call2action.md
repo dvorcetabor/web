@@ -7,7 +7,7 @@ Na akci se prosím registrujte <a href="bit.ly/43IO3TB">zde</a>
 
 ### Setkání s veřejností a diskuze ___ 7. června 2023
 
-![plakát](/assets/img/plakat-FIN_Dvorce-2023.jpg)
+![plakát](/assets/img/pozvanka_profesionalove.jpg)
 V přípravě nové čtvrti Dvorce se město posunulo zase o krok dále. Návrh z architektonické soutěže rozpracoval tým pod taktovkou NormA architekti do podoby územní studie, která je nyní k nahlédnutí na <a href="https://www.taborcz.eu/vismo/dokumenty2.asp?id=80568&n=uzemni-studie-tabor-obytna-ctvrt-dvorce&p1=66237">webu města</a>. Ekonomický model rozvoje území vymysleli specialisté z kanceláře 4ct a koordinaci dalších kroků převzala Kancelář architekta města. Veřejné představení dalšího postupu a panelová diskuse, ve které bude prostor se zeptat na vše, co vás zajímá, se bude konat 7. června 2023 od 17 hodin v jídelně ZŠ Zborovská na Pražském sídlišti.
 
 Srdečně zveme! 
