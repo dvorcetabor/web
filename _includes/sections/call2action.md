@@ -2,7 +2,7 @@
 ### Prezentace pro zájemce o výstavbu ___ 21. června 2023
 
 Město Tábor zve odbornou veřejnost na prezentaci záměru výstavby nové čtvrti Dvorce. Akce se uskuteční v táborské Galerii U Radnice (ulice Martínky Húsky, Staré město) ve středu 21. června 2023 ve 14.30 hodin. Je určena pro zájemce o výstavbu – developery, investory a družstva. Město jako vlastník pozemků v bývalých kasárnách vybralo na základě architektonické soutěže urbanistický návrh, dokončilo územní studii a nechalo zpracovat ekonomickou a obchodní strategii. Zástupci vlastníka a další odborníci představí podrobné parametry zástavby, bilance území a předpokládaný časový harmonogram budoucí výstavby. Na dotazy budou odpovídat starosta města Štěpán Pavlík, vedoucí Kanceláře architekta města Tábor Kateřina Čechová, architektka územní studie Jana Moravcová (NormA architekti) a zpracovatel ekonomického posouzení návrhu Tomáš Ctibor (4ct).
-Na akci se prosím registrujte <a href="bit.ly/43IO3TB">zde</a>
+Na akci se prosím registrujte <a href="[bit.ly/43IO3TB](https://docs.google.com/forms/d/e/1FAIpQLSfH0_b1WmQi2zxn4wU_a8S1NkyA9V9Qy6_ykcZgxUpr6oVVDA/viewform)">zde</a>
 
 
 ### Územní studie - k nahlédnutí <a href="https://www.taborcz.eu/vismo/dokumenty2.asp?id=80568&n=uzemni-studie-tabor-obytna-ctvrt-dvorce&p1=66237">zde</a>
