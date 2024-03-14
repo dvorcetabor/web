@@ -1,6 +1,7 @@
 
 
-### Územní studie - k nahlédnutí <a href="https://www.taborcz.eu/vismo/dokumenty2.asp?id=80568&n=uzemni-studie-tabor-obytna-ctvrt-dvorce&p1=66237">zde</a>
+### AKTUALITY</p>
+
 
 
 ### červen 2023 - setkání s veřejností a prezentace pro zájemce o výstavbu
