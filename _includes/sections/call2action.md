@@ -2,8 +2,7 @@
 
 ### AKTUALITY
 
-### březen 2024
-- změna územní studie -
+### březen 2024 / změna územní studie
 Rada města schválila zpracování změny územní studie, neboli urbanistického plánu, podle kterého by měla v budoucnu probíhat výstavba nové čtvrti.
 Reagujeme na nové vstupy do projektu:
 → změny přineslo jednání o pozemkové směně s nejbližšími sousedy, Ministerstvem obrany a Armádou ČR. Zřízení sídla Velitelství teritoriálních sil v Táboře přineslo nové bezpečnostní požadavky, které neumožní rekonstruovat ulici Kyjevskou v podobě, v jaké byla navržena. Architekti budou muset přijít s novým uspořádáním profilu a najít nové řešení pro parkování ve Dvorcích.   
@@ -14,19 +13,16 @@ Reagujeme na nové vstupy do projektu:
 Změna územní studie bude dokončena začátkem června tohoto roku, o změnách vás budeme průběžně informovat.
 
 
-### červen 2023 
-- setkání s veřejností a prezentace pro zájemce o výstavbu -
+### červen 2023 / setkání s veřejností a prezentace pro zájemce o výstavbu
 
 Veřejnosti byla představena výsledná územní studie, představen další postup a vedla se diskuze k palčivým tématům. Na samostatnou prezentaci byli následně pozváni zájemci o výstavbu z řad developerů a investorů, kterým jsme představili podrobné parametry zástavby, bilance území a předpokládaný časový harmonogram budoucí výstavby. 
 
-### prosinec 2021 - srpen 2022 
--z pracování obchodního modelu a strategie rozvoje území -
+### prosinec 2021 - srpen 2022 / zpracování obchodního modelu a strategie rozvoje území
 
 Mezioborový tým 4ct pod taktovkou Tomáše Ctibora zpracoval potřebnou procesní a ekonomickou část proveditelnosti celého návrhu. Zahrnuje tržní analýzu, posouzení rizik a obchodní a finanční modely ve variantách. 
 ### Obchodní strategie ke stažení <a href="https://www.taborcz.eu/assets/File.ashx?id_org=16470&id_dokumenty=91768">zde</a>
 
-### září 2021 - červen 2022 
-- zpracování územní studie -
+### září 2021 - červen 2022 / zpracování územní studie
 
 Atelier Norma architekti proměnil vítěžný návrh v jasně daná pravidla ve formátu územní studie. Je stanovena výšková hladina nové zástavby, parcelace, dopravní obsluha a způsob zásobování technickou infrastrukturou. 
 ### Územní studie - k nahlédnutí <a href="https://www.taborcz.eu/vismo/dokumenty2.asp?id=80568&n=uzemni-studie-tabor-obytna-ctvrt-dvorce&p1=66237">zde</a>
