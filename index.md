@@ -5,7 +5,6 @@ description: Stránka táborské pirátské buňky s nejnovějšími články a 
 keywords: organizace,transparence,politika
 ---
 
-
 {% include sections/hero.html %}
 
 <main id="main">
@@ -17,9 +16,9 @@ keywords: organizace,transparence,politika
   </div>
 </section>
 
-  {% include sections/about.html %}
+{% include sections/about.html %}
 
-  {% include sections/about-video.html %}
+{% include sections/about-video.html %}
 
   <section id="1cena" class="team section-bg">
     <div class="container" data-aos="fade-up">
@@ -29,28 +28,28 @@ keywords: organizace,transparence,politika
 
       <div class="row fw my-4">
         <div class="col-lg-2 offset-lg-1 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/norma/1.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.1.jpg"  />
+          <a href="/assets/img/JPEGYDvorce/norma/1.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/norma/sm.1.jpg"  />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/norma/2.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.2.jpg"  />
+          <a href="/assets/img/JPEGYDvorce/norma/2.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/norma/sm.2.jpg"  />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/norma/3.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.3.jpg"  />
+          <a href="/assets/img/JPEGYDvorce/norma/3.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/norma/sm.3.jpg"  />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/norma/4.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.4.jpg"  />
+          <a href="/assets/img/JPEGYDvorce/norma/4.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/norma/sm.4.jpg"  />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/norma/5.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/norma/sm.5.jpg"  />
+          <a href="/assets/img/JPEGYDvorce/norma/5.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/norma/sm.5.jpg"  />
           </a>
         </div>
       </div>
@@ -60,6 +59,7 @@ keywords: organizace,transparence,politika
       {{ my_include | markdownify }}
       </div>
     </div>
+
   </section>
 
   <section id="2cena" class="team">
@@ -71,28 +71,28 @@ keywords: organizace,transparence,politika
 
       <div class="row fw my-4">
         <div class="col-lg-2 offset-lg-1 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/unit/1.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.1.jpg" />
+          <a href="/assets/img/JPEGYDvorce/unit/1.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/unit/sm.1.jpg" />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/unit/2.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.2.jpg"  />
+          <a href="/assets/img/JPEGYDvorce/unit/2.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/unit/sm.2.jpg"  />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/unit/3.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.3.jpg"  />
+          <a href="/assets/img/JPEGYDvorce/unit/3.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/unit/sm.3.jpg"  />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/unit/4.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.4.jpg"  />
+          <a href="/assets/img/JPEGYDvorce/unit/4.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/unit/sm.4.jpg"  />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/unit/5.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/unit/sm.5.jpg"  />
+          <a href="/assets/img/JPEGYDvorce/unit/5.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/unit/sm.5.jpg"  />
           </a>
         </div>
       </div>
@@ -102,6 +102,7 @@ keywords: organizace,transparence,politika
       {{ my_include | markdownify }}
       </div>
     </div>
+
   </section>
 
   <section id="3cena" class="team section-bg">
@@ -113,28 +114,28 @@ keywords: organizace,transparence,politika
 
       <div class="row fw my-4">
         <div class="col-lg-2 offset-lg-1 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/3a/1.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.1.jpg" />
+          <a href="/assets/img/JPEGYDvorce/3a/1.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/3a/sm.1.jpg" />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/3a/2.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.2.jpg" />
+          <a href="/assets/img/JPEGYDvorce/3a/2.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/3a/sm.2.jpg" />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/3a/3.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.3.jpg" />
+          <a href="/assets/img/JPEGYDvorce/3a/3.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/3a/sm.3.jpg" />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/3a/4.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.4.jpg" />
+          <a href="/assets/img/JPEGYDvorce/3a/4.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/3a/sm.4.jpg" />
           </a>
         </div>
         <div class="col-lg-2 col-md-4">
-          <a href="http://data.vxk.cz/JPEGYDvorce/3a/5.jpg" target="_blank">
-            <img src="http://data.vxk.cz/JPEGYDvorce/3a/sm.5.jpg" />
+          <a href="/assets/img/JPEGYDvorce/3a/5.jpg" target="_blank">
+            <img src="/assets/img/JPEGYDvorce/3a/sm.5.jpg" />
           </a>
         </div>
       </div>
@@ -144,8 +145,9 @@ keywords: organizace,transparence,politika
       {{ my_include | markdownify }}
       </div>
     </div>
+
   </section>
 
-  {% include sections/contact.html %}
+{% include sections/contact.html %}
 
 </main><!-- End #main -->
