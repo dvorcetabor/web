@@ -54,7 +54,7 @@ keywords: organizace,transparence,politika
         </div>
       </div>
 
-      <div class="row">
+      <div class="roow">
       {% capture my_include %}{% include sections/navrhy/1.md %}{% endcapture %}
       {{ my_include | markdownify }}
       </div>
@@ -97,7 +97,7 @@ keywords: organizace,transparence,politika
         </div>
       </div>
 
-      <div class="row">
+      <div class="roow">
       {% capture my_include %}{% include sections/navrhy/2.md %}{% endcapture %}
       {{ my_include | markdownify }}
       </div>
@@ -140,7 +140,7 @@ keywords: organizace,transparence,politika
         </div>
       </div>
 
-      <div class="row">
+      <div class="roow">
       {% capture my_include %}{% include sections/navrhy/3.md %}{% endcapture %}
       {{ my_include | markdownify }}
       </div>
